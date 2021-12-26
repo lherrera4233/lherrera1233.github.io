@@ -57,7 +57,7 @@ img-circle {
   color: white;
 }
 .navbar .navbar-nav>li>a {
-  color: #4b0082;
+  color: indigo;
   background-color:white;
 }
 .navbar .navbar-nav>li>a:hover {
@@ -66,7 +66,7 @@ img-circle {
 }
 .navbar .navbar-nav>.active>a {
   background-color:white;
-  color: #4b0082;
+  color: indigo;
 }
 .navbar .navbar-nav>.active>a:hover {
   background-color:white;
