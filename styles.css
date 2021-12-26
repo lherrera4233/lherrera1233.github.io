@@ -1,8 +1,8 @@
 body {
-  background-color:white;
+  background-color:indigo;
 }
 a {
-  color: #bf5700;
+  color: #4b0082;
 }
 a:link {
   color: #bf5700;
@@ -13,6 +13,7 @@ a:hover {
 h1 {
   font-size: 32px;
   text-align: center;
+  color: white;
 }
 h2 {
   font-size: 28px;
