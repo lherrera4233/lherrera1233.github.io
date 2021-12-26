@@ -5,10 +5,10 @@ a {
   color: #4b0082;
 }
 a:link {
-  color: #bf5700;
+  color: #4b0082;
 }
 a:hover {
-  color: #bf5700;
+  color: #4b0082;
 }
 h1 {
   font-size: 32px;
@@ -51,7 +51,7 @@ img-circle {
   color: white;
 }
 .navbar .navbar-nav>li>a {
-  color: #bf5700;
+  color: #4b0082;
   background-color:white;
 }
 .navbar .navbar-nav>li>a:hover {
@@ -60,7 +60,7 @@ img-circle {
 }
 .navbar .navbar-nav>.active>a {
   background-color:white;
-  color: #bf5700;
+  color: #4b0082;
 }
 .navbar .navbar-nav>.active>a:hover {
   background-color:white;
