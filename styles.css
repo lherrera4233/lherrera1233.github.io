@@ -2,13 +2,13 @@ body {
   background-color:white;
 }
 a {
-  color: #4b0082;
+  color: #bf5700;
 }
 a:link {
-  color: #4b0082;
+  color: #bf5700;
 }
 a:hover {
-  color: #4b0082;
+  color: #bf5700;
 }
 h1 {
   font-size: 32px;
@@ -50,7 +50,7 @@ img-circle {
   color: white;
 }
 .navbar .navbar-nav>li>a {
-  color: #4b0082;
+  color: #bf5700;
   background-color:white;
 }
 .navbar .navbar-nav>li>a:hover {
@@ -59,7 +59,7 @@ img-circle {
 }
 .navbar .navbar-nav>.active>a {
   background-color:white;
-  color: #4b0082;
+  color: #bf5700;
 }
 .navbar .navbar-nav>.active>a:hover {
   background-color:white;
