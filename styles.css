@@ -1,11 +1,21 @@
 body {
   background-color:indigo;
+  opacity: 0.5;
 }
+
+body {
+  border-radius: 25px;
+  background: url("Austin_skyline.jpg");
+  background-position: left top;
+  background-repeat: repeat;
+  padding: 50px;
+}
+
 a {
   color: #4b0082;
 }
 a:link {
-  color: blue;
+  color: cyan;
 }
 a:hover {
   color: blue;
