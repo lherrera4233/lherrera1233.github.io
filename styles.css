@@ -1,60 +1,37 @@
 body {
-  background-color:indigo;
+  background-color:white;
 }
-
-scrn-img {
-    display: block;
-    margin: auto;
-    opacity: 0.8;
-}
-
-bkgd-img {
-    border-radius: 25px;
-    background-image: url("Austin_skyline.jpg");
-    background-position: left top;
-    background-repeat: repeat;
-    padding: 50px;
-    height: 90%;
-    width: 90%;
-}
-
 a {
-  color: #4b0082;
+  color: #bf5700;
 }
 a:link {
-  color: cyan;
+  color: #bf5700;
 }
 a:hover {
-  color: blue;
+  color: #bf5700;
 }
 h1 {
   font-size: 32px;
   text-align: center;
-  color: white;
 }
 h2 {
   font-size: 28px;
-  color: white;
 }
 h3 {
   font-size: 20px;
   font-style: italic;
   font-weight: 100;
-  color: white;
 }
 h4 {
   font-size: 20px;
-  color: white;
 }
 h5 {
   font-size: 16px;
   text-align: center;
-  color: white;
   
 }
 h6 {
   font-size: 12px;
-  color: white;
 }
 img {
     display: block;
@@ -63,8 +40,6 @@ img {
 
 img-circle {
     border-radius: 50%;
-    border-color: white;
-    border-width: 10px;
 }
 
 .navbar {
@@ -75,7 +50,7 @@ img-circle {
   color: white;
 }
 .navbar .navbar-nav>li>a {
-  color: indigo;
+  color: #bf5700;
   background-color:white;
 }
 .navbar .navbar-nav>li>a:hover {
@@ -84,7 +59,7 @@ img-circle {
 }
 .navbar .navbar-nav>.active>a {
   background-color:white;
-  color: indigo;
+  color: #bf5700;
 }
 .navbar .navbar-nav>.active>a:hover {
   background-color:white;
