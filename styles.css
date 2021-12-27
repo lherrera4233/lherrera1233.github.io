@@ -56,12 +56,13 @@ scrn-img {
 }
 
 bkgd-img { 
-    border-radius: 20px;
     background-image: url("Austin skyline.jpg");
     opacity: 0.7;
     background-repeat: repeat;
     background-position: left top;
     background-attachment: fixed;
+    width: 400px;
+    height: 300px;
     padding: 100px;
     background-clip: padding-box;
 }
