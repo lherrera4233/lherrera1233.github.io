@@ -3,9 +3,14 @@ body {
   opacity: 0.5;
 }
 
-body {
+scrn-img {
+  display: block;
+  margin: auto;
+}
+
+bkgd-img {
   border-radius: 25px;
-  background: url("Austin_skyline.jpg");
+  background-image: url("Austin_skyline.jpg");
   background-position: left top;
   background-repeat: repeat;
   padding: 50px;
