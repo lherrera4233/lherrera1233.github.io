@@ -1,19 +1,21 @@
 body {
   background-color:indigo;
-  opacity: 0.8;
 }
 
 scrn-img {
-  display: block;
-  margin: auto;
+    display: block;
+    margin: auto;
+    opacity: 0.8;
 }
 
 bkgd-img {
-  border-radius: 25px;
-  background-image: url("Austin_skyline.jpg");
-  background-position: left top;
-  background-repeat: repeat;
-  padding: 50px;
+    border-radius: 25px;
+    background-image: url("Austin_skyline.jpg");
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 50px;
+    height: 90%;
+    width: 90%;
 }
 
 a {
@@ -62,6 +64,7 @@ img {
 img-circle {
     border-radius: 50%;
     border-color: white;
+    border-width: 10px;
 }
 
 .navbar {
