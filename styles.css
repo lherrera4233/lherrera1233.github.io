@@ -1,10 +1,5 @@
 body {
   background-color:indigo;
-  background-image: url("Austin skyline.jpg");
-  background-repeat: repeat;
-  background-position: left top;
-  background-attachment: fixed;
-  padding: 50px;
 }
 
 a {
@@ -62,6 +57,11 @@ scrn-img {
 
 bkgd-img { 
     border-radius: 20px;
+    background-image: url("Austin skyline.jpg");
+    background-repeat: repeat;
+    background-position: left top;
+    background-attachment: fixed;
+    padding: 50px;
 }
 .navbar {
   background-color:white;
